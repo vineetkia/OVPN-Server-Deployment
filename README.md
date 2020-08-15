@@ -1,5 +1,5 @@
 ## SETUP VPN SERVER With Single Shell Script VPS [![EXPLOiT](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
-> This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.
+> This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible, With END To END TLS/SSL Encryption.
 
 <h1 align="center"> <br><a href="#"><img src="https://openvpn.net/wp-content/uploads/2018/06/about_text_logo.png" alt="OVPN"></a></h1>
 
